@@ -1,0 +1,9 @@
+During this lab, I built a URL Shortening landing page that integrates with the Bitly API. My goal was to create a fully functional front-end where users can shorten URLs, view a list of shortened links, and copy them to their clipboard.
+
+Honestly, this lab was a rollercoaster. One of the most frustrating parts was setting up GitHub Pages. My project files were nested inside a folder, and no matter what I tried, the live site kept showing the README.md instead of the index.html. I spent a lot of time moving files around, using Git Bash, and figuring out the correct folder structure. It was stressful at first, but I eventually learned how important it is to have the website files in the repository root for deployment to work properly.
+
+Integrating the Bitly API also came with its challenges. I had to create a free Bitly account, get an access token, and make sure my JavaScript correctly handled API requests. Testing and debugging took longer than expected — sometimes the links wouldn’t appear, or the copy button wouldn’t work. It was frustrating to chase small errors, but each fix taught me more about handling API requests and browser storage.
+
+Despite the challenges, I enjoyed making the page responsive and aligning it with the style guide. Adding features like copy-to-clipboard and localStorage for persistent links was satisfying, especially after all the earlier headaches.
+
+If I could improve this project, I’d polish the mobile menu and add small animations for feedback. Overall, this lab was a mix of frustration and achievement, and it really strengthened my skills in front-end development, debugging, API integration, and deploying live projects on GitHub Pages.
