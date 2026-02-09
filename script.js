@@ -9,7 +9,7 @@ const errorMessage = document.querySelector(".error-message");
 // ======================
 // BITLY CONFIG
 // ======================
-const BITLY_TOKEN = "PASTE_YOUR_BITLY_TOKEN_HERE";
+const BITLY_TOKEN = "f9d732dc7cd6ae2a502d94a16d92c06164f92236";
 
 // ======================
 // STATE
